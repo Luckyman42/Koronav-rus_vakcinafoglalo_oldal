@@ -1,0 +1,11 @@
+[
+    {
+        "id": 0,
+        "email": "admin@nemkovid.hu",
+        "password": "$2y$10$UoYWy8CrNUT2KhA0dDZItujGN3tBJVVVeg2Vfq4\/7xim9x\/FAKudO",
+        "fullname": "admin",
+        "taj": "TAJSZAM",
+        "address": "admin",
+        "appointment": -1
+    }
+]

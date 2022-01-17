@@ -1,0 +1,21 @@
+
+#calendar{
+    margin : 0;
+    padding: 0;
+}
+.calendarRow{
+    min-height: 500px;
+    border: 2px solid black;
+    margin : 0;
+    padding: 0;
+    }
+
+.calendarTD{
+    vertical-align: top;
+    text-align: left;
+    margin : 0;
+    padding: 0;
+    border: 1px solid navy;
+    min-width: 100px;
+    min-height: 100px;
+}

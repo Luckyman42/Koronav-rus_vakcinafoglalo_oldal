@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "year": 2021,
+        "month": 1,
+        "day": 14,
+        "hour": 14,
+        "min": 30,
+        "limit": 10,
+        "users": []
+    },
+    {
+        "id": 1,
+        "year": 2021,
+        "month": 1,
+        "day": 14,
+        "hour": 16,
+        "min": 45,
+        "limit": 10,
+        "users": []
+    },
+    {
+        "id": 2,
+        "year": 2021,
+        "month": 1,
+        "day": 28,
+        "hour": 13,
+        "min": 0,
+        "limit": 12,
+        "users": []
+    },
+    {
+        "id": 3,
+        "year": 2021,
+        "month": 1,
+        "day": 24,
+        "hour": 13,
+        "min": 0,
+        "limit": 11,
+        "users": []
+    },
+    {
+        "id": 4,
+        "year": 2021,
+        "month": 1,
+        "day": 22,
+        "hour": 16,
+        "min": 15,
+        "limit": 2,
+        "users": []
+    }
+]
